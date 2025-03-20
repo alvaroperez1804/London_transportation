@@ -14,7 +14,7 @@ This project analyzes different types of journeys in London, exploring their pri
 ### 1️⃣ Relationship Between Number of Journeys and Price
 - A scatter plot was created to analyze the relationship between the number of journeys and the assigned price.
 - **Graph:**
-  ![Scatter Plot](IMAGENES%20DE%20PROYECTO%20SQL/Scatter_plot.png)
+  ![Scatter Plot]([IMAGENES%20DE%20PROYECTO%20SQL/Scatter_plot.png](https://github.com/alvaroperez1804/London_transportation/blob/master/Scatter_plot.png))
 
 ### 2️⃣ Most Popular Transport Types
 - The dataset was grouped by `journey_type` to find the most used transport modes in terms of total journeys.
