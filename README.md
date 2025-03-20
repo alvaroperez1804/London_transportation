@@ -19,7 +19,7 @@ This project analyzes different types of journeys in London, exploring their pri
 ### 2️⃣ Most Popular Transport Types
 - The dataset was grouped by `journey_type` to find the most used transport modes in terms of total journeys.
 - **Graph:**
-  ![Most Popular Transport](IMAGENES%20DE%20PROYECTO%20SQL/MOST%20POPULAR.PNG)
+  ![Most Popular Transport](https://github.com/alvaroperez1804/London_transportation/blob/master/mas_populares.png)
 
 ### 3️⃣ Emirates Airline Popularity Over Time
 - The project identifies the top 5 months and years where the Emirates Airline transport mode was most popular.
