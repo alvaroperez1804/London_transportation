@@ -25,7 +25,7 @@ This project analyzes different types of journeys in London, exploring their pri
 - The project identifies the top 5 months and years where the Emirates Airline transport mode was most popular.
 - The results were sorted in descending order to show peak demand periods.
 - **Graph:**
-  ![Emirates Popularity](IMAGENES%20DE%20PROYECTO%20SQL/emirates_.png)
+  ![Emirates Popularity](https://github.com/alvaroperez1804/London_transportation/blob/master/emirates_.png)
 
 ### 4️⃣ Least Popular Years for Underground & DLR
 - The dataset was filtered to examine the years where the `Underground & DLR` transport mode had the lowest number of journeys.
