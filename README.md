@@ -30,7 +30,7 @@ This project analyzes different types of journeys in London, exploring their pri
 ### 4️⃣ Least Popular Years for Underground & DLR
 - The dataset was filtered to examine the years where the `Underground & DLR` transport mode had the lowest number of journeys.
 - **Graph:**
-  ![Underground Least Popular](IMAGENES%20DE%20PROYECTO%20SQL/Codigo.PNG)
+  ![Underground Least Popular](https://github.com/alvaroperez1804/London_transportation/blob/master/less.png)
 
 ## 🛠 Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn, NumPy)
